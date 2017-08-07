@@ -1,0 +1,31 @@
+Type;SKU;Name;Published;Visibility in catalog;In stock?;Backorders allowed?;Price;Stock;Categories;Attribute 1 Name;Attribute 1 Value(s);Attribute 2 Name;Attribute 2 Value(s);Attribute 3 Name;Attribute 3 Value(s);Attribute 4 Name;Attribute 4 Value(s);Attribute 5 Name;Attribute 5 Value(s);Attribute 6 Name;Attribute 6 Value(s)
+simple;L0385003;Coche Cutie baby para bebé Café/Verde;0;visible;1;notify;60;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;L2009001;Silla para bebé Rosada Cutie baby ;0;visible;1;notify;104.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;L2009002;Silla para bebé Verde Cutie baby ;0;visible;1;notify;104.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-9096769;Sillón para niño forma de ardilla Café;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;871-38;Silla Small Creation para niño Azul;0;visible;1;notify;138;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;871-32;Silla Small Creation para niña Rosado;0;visible;1;notify;138;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+variable;813;Andaribel Rosado, Celeste;0;visible;1;notify;0;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;L2710100010;Andaribel Cutie Celeste;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;5232;Andaribel Bebecitos Verde;0;visible;1;notify;20;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+variable;GL-7021;Triciclo parea niño Morado, azul verde;0;visible;1;notify;0;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;Tri-bobby;Triciclo Bobby Morado/Rosado;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;MG-103AYA;Carrito para niño Azul/rojo;0;visible;1;notify;40;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;JS-5967V;Carrito para niño Verde;0;visible;1;notify;40;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;MG-M100;Carrito para niño Rojo/Gris;0;visible;1;notify;29;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;801-2710033;Moto Baby Happy para Niño Blanco/Gris;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+variable;718-30022;Planta artificial blanca, rosada;0;visible;1;notify;11;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-MA111192RV;Juego de sofa rojo vino;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-425370;Sofa esquinero Beige (Crema);0;visible;1;notify;2200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-425367;Sofa esquinero Café;0;visible;1;notify;2200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-425368;Sofa esquinero Gris;0;visible;1;notify;2200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;857-MA111601B;Sofa reclinable Azul;0;visible;1;notify;350;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-408010;Sofa en L 2 piezas Chocolate;0;visible;1;notify;1100;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-ZARACO;Sofa en L 3 Piezas Crema;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-ZARACH;Sofa en L 2 piezas Chocolate;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;718-29155;Planta artificial con mazeta;0;visible;1;notify;7.8;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+variable;718-33321;Planta artificial con mazeta blanco, morado;0;visible;1;notify;12;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+variable;700-30497;Alfombras 38*58cm negro, gris, naranja;0;visible;1;notify;5;30;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-MA111192CHO;Juego de sofa rojo Chocolate;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;851-MA111192CH;Juego de sofa beige;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other
+simple;BLPP5005-1500M;Escritorio Color Magogany 1500X730;0;visible;1;notify;298;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1;Marca;Other

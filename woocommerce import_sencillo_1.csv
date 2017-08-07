@@ -1,0 +1,305 @@
+Type;SKU;Name;Published;Visibility in catalog;In stock?;Backorders allowed?;Price;Stock;Categories;Attribute 1 Name;Attribute 1 Value(s);Attribute 2 Name;Attribute 2 Value(s);Attribute 3 Name;Attribute 3 Value(s);Attribute 4 Name;Attribute 4 Value(s);Attribute 5 Name;Attribute 5 Value(s)
+SIMPLE;LP-2205;ABANICO  DE PISO LA PRIMAVERA PEQUEÑO;0;visible;1;notify;14;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;VSP-1801;ABANICO  DE PISO STAR PLUS GRANDE;0;visible;1;notify;48;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;FN-40T02WR;ABANICO  DE TORRE SANKEY ;0;visible;1;notify;65;5;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;LP-2203;ABANICO ASTAR ;0;visible;1;notify;14;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ABE56TECHO;ABANICO PARA TECHO ERICKSON ;0;visible;1;notify;48;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;HYDRA;ALACEDORA Y RIZADORA DE CABELLO HYDRA TAURUS;0;visible;1;notify;25;4;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-073903;ALFOMBRA HOME LIVING ;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-29307;ALFOMBRA ;0;visible;1;notify;5;30;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-072846;ALFOMBRA  120X180;0;visible;1;notify;45;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-067436;ALFOMBRA 100X150;0;visible;1;notify;72;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;964-90128607;ALFOMBRA DE PVC MAX MOTOR ;0;visible;1;notify;56;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-072750;ALFOMBRA DE TELA  120X180;0;visible;1;notify;45;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-MOD;ALFOMBRA DE TELA  200X300;0;visible;1;notify;86;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;700-072862;ALFOMBRA PELUDA HOME LIVING 160X230 CM;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;2145;ALMOHADA REGAL ;0;visible;1;notify;6.5;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;HZ-1150;ANDARIBEL  AZUL PARA NIÑO ;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;677-10844;ANDARIBEL VERDE PARA NIÑO ;0;visible;1;notify;55;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;718-68617;ARBOL ARTIFICIAL DECORE;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;718-90136243;ARBOL ARTIFICIAL DECORE;0;visible;1;notify;135;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125224;ARCHIVADOR 2 GAVETAS ;0;visible;1;notify;185;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90133153;ARCHIVADOR 3 GAVETAS COLOR NEGRO 1 NEGRO 1 GRIS ;0;visible;1;notify;225;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125239;ARCHIVADOR METALICO DE 10 PUERTAS ;0;visible;1;notify;350;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125226;ARCHIVADOR METALICO DE 3 GAVETAS;0;visible;1;notify;215;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125244;ARCHIVADOR METALICO DE 3 PUERTAS BEIGE ;0;visible;1;notify;145;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90133154;ARCHIVADOR METALICO DE 4 GAVETAS COLOR NEGRO;0;visible;1;notify;268;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125245;ARCHIVADOR METALICO DE 5 PUERTAS COLOR GRIS ;0;visible;1;notify;185;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-901252456;ARCHIVADOR METALICO DE 5 PUERTAS COLOR GRIS ;0;visible;1;notify;185;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125257;ARCHIVADOR METALICO DE 6 PUERTAS COLOR GRIS ;0;visible;1;notify;395;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125241;ARCHVADOR METALICO CON UNA SOLA PUERTA;0;visible;1;notify;135;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;652831;ARROCERA DIGITAL MULTIUSO EVERSTAR;0;visible;1;notify;58;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4729;ARROCERA OSTER;0;visible;1;notify;52;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;WKRCN15;ARROCERA WESTINGHOUSE;0;visible;1;notify;22;5;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;679-10937;ASIENTO PARA BEBÉ PARA AUTOMOVIL BABY FUN;0;visible;1;notify;70;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-DRN872;AUXILIAR PARA COCINA ;0;visible;1;notify;65;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;861-90136444;AUXILIAR PARA MANICURA;0;visible;1;notify;126;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;861-470;AUXILIAR PARA SALON, 1 BANDEJA 3 PANAS;0;visible;1;notify;108;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;706-11057;BANDEJA PARA BUFFET;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;706-78922;BANDEJA PARA BUFFET;0;visible;1;notify;128;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4.03673E+12;BASURERO CON PEDAL 8LTS;0;visible;1;notify;16;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;"20""CHILDREN";BICICLETA AURORA  P/NIÑA ;0;visible;1;notify;68;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;NITRO-16P;"BICICLETA NITRO  16""";0;visible;1;notify;64;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;NITRO-20P;"BICICLETA NITRO COLOR AZUL 20""";0;visible;1;notify;66;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;802-18510004;"BICICLETA PARA NIÑO AVANTI 12""";0;visible;1;notify;92;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;802-18510009;"BICICLETA PARA NIÑO AVANTI 16""";0;visible;1;notify;108;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CABECERA-180;CABECERA PARA CAMA ;0;visible;1;notify;180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;31344;CUADRO PEQUEÑO ;0;visible;1;notify;4;6;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;PXQ602BK;CAFETERA ERICKSON;0;visible;1;notify;18;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;40515;CAFETERA HAMILTON 42 TAZAS ;0;visible;1;notify;58;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;RCUR10;CAFETERA RCA 45 TAZAS ;0;visible;1;notify;52;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;BFH1416-LA;CALENTADOR BIONAIRE;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;861-HL3558;CAMA PARA MASAJE CON BUTACA ;0;visible;1;notify;420;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90141436;CANDELABRO;0;visible;1;notify;49.5;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33353;CANDELABRO;0;visible;1;notify;52;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33357;CANDELABRO;0;visible;1;notify;25;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33361;CANDELABRO;0;visible;1;notify;38;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-28221;CANDELABRO ;0;visible;1;notify;75;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-28232;CANDELABRO ;0;visible;1;notify;138;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90117006;CANDELABRO ;0;visible;1;notify;29.5;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90141431;CANDELABRO ;0;visible;1;notify;39.5;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90141432;CANDELABRO ;0;visible;1;notify;30.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90141433;CANDELABRO ;0;visible;1;notify;38;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90129288;CANDELABRO ;0;visible;1;notify;38;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90113232;CANDELABRO ;0;visible;1;notify;18;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-15607;CANDELABRO  ;0;visible;1;notify;55;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90140908;CANDELABRO  PARA MESA;0;visible;1;notify;75;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;706-26894;CANDELABRO  PARA MESA;0;visible;1;notify;48;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;852-33331;CANDELABRO  PARA MESA;0;visible;1;notify;132;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90135296;CANDELABRO  PARA MESA;0;visible;1;notify;23;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90141430;CANDELABRO  PARA MESA;0;visible;1;notify;32;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-90140902;CANDELABRO  PARA MESA;0;visible;1;notify;45;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33335;CANDELABRO  PARA MESA;0;visible;1;notify;85;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90140910;CANDELABRO  PARA MESA;0;visible;1;notify;125;4;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-28220;CANDELABRO  PARA MESA;0;visible;1;notify;49;5;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33360;CANDELABRO  PARA MESA;0;visible;1;notify;42;6;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-81532;CANDELABRO  PARA MESA;0;visible;1;notify;35;11;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-90135303;CANDELABRO  PARA MESA;0;visible;1;notify;20;13;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-33358;CANDELABRO  PARA MESA;0;visible;1;notify;28;13;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;704-9204-M;CANDELABRO  PARA MESA (1 FALLADO);0;visible;1;notify;23;6;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-L2250330;CANDELABRO PARA MESA ;0;visible;1;notify;19;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;971-US60;CARRITO PARA COMPRAS ;0;visible;1;notify;155;7;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;DK-F002;CARRO ELECTRICO  BLANCO PARA NIÑO ;0;visible;1;notify;240.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;D158812;CARRO ELECTRICO  FACTORY X PARA NIÑO ;0;visible;1;notify;168;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;QX-7288A;CARRO ELECTRICO AMARILLO;0;visible;1;notify;182;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;MBSX-1528;CARRO ELECTRICO P/NIÑO ;0;visible;1;notify;298;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;48259NP;CASTILLO INFLABLE ;0;visible;1;notify;78;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;YS-R301;CENTRO DE ENTRETENIMIENTO;0;visible;1;notify;99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;855-90110734;CENTRO DE ENTRETENIMIENTO NEGRO;0;visible;1;notify;195;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;855-HW4013C;CENTRO DE ENTRETENIMIENTO(CREMA);0;visible;1;notify;255;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;964-90115992;CESPED  ARTIFICIAL;0;visible;1;notify;125;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CH-INFACTEC;COCHE PARA BEBE GEMELOS INFANTEC;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;EAG2044NIS;COCINA ATLAS 4 QUEMADORES, HORNO;0;visible;1;notify;295;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ZY037;COLCHA ANTIALERGICA CAMAZONA PIEL DURAZNO;0;visible;1;notify;9.5;9;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;SAB101;COLCHA SABATINI ANTIALERGICA;0;visible;1;notify;24;14;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;64135E;COLCHON INFLABLE ;0;visible;1;notify;78;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;800-66929/66929;COLCHON INFLABLE ;0;visible;1;notify;38;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-90133116;COMEDOR  6 SILLAS ;0;visible;1;notify;680;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-41129;COMEDOR  REDONDO 2 SILLAS;0;visible;1;notify;237;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-T101C5013;COMEDOR 3 SILLAS ;0;visible;1;notify;595;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-93015;COMEDOR 4 SILLAS ;0;visible;1;notify;370;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-COSXN;COMEDOR 4 SILLAS ;0;visible;1;notify;285;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-90122442;COMEDOR 5 PIEZAS ;0;visible;1;notify;220;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-85612A;COMEDOR 5 SILLAS ;0;visible;1;notify;380;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-COSSBASTIAN;COMEDOR 6 SILLAS ;0;visible;1;notify;630;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-9069;COMEDOR DE 4 SILLAS ;0;visible;1;notify;228;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-2008;COMEDOR DE 6 SILLAS ;0;visible;1;notify;220;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-CARNATIONCH;COMEDOR DE 6 SILLAS ;0;visible;1;notify;590;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-COSKIMBERLING;COMEDOR DE 6 SILLAS ;0;visible;1;notify;780;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-COSX6;COMEDOR DE 6 SILLAS ;0;visible;1;notify;570;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-T101C5179CR;COMEDOR DE 6 SILLAS ;0;visible;1;notify;650;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;AC3309 T;COMEDOR DE 8 SILLAS;0;visible;1;notify;2300;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-WRB154;COMEDOR DE CUATRO SILLAS MDF, METAL TELA;0;visible;1;notify;473;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-WRBT136G;COMEDOR DE CUATRO SILLAS VIDRIO, METAL TELA;0;visible;1;notify;448;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;AC31845C;COMEDOR DE MADERA DE 6 SILLAS ;0;visible;1;notify;1798;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-DR991038;COMEDOR REDONDO 4 SILLAS ;0;visible;1;notify;165;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;852-STB460101;COMODA 1 GAVETA/ COLOR BLANCO;0;visible;1;notify;95;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;852-32287;COMODA CON ESPEJO Y BUTACA ;0;visible;1;notify;98;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;750-IC-11/2-1WP;COPAS DE HELADO FREEZY;0;visible;1;notify;4.5;12;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;723-20730019;COPAS TRANSPARENTES LIFE ART;0;visible;1;notify;2.4;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;1179;CORRAL  AZUL PARA BEBÉ ;0;visible;1;notify;82;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CN-AZULTECHO;CORRAL CELESTE PARA BEBÉ CON TECHO Y MOSQUITERO ;0;visible;1;notify;93;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CN-NARANJA-82;CORRAL NARANJA PARA BEBE ;0;visible;1;notify;82;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;21-1025;CORTINA MIEL HOME;0;visible;1;notify;4.5;4;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;711-90139167;CORTINA PARA BAÑO  PACIFIC CLUB;0;visible;1;notify;4.5;4;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;76800104;CORTINA PARA BAÑO  PACIFIC CLUB;0;visible;1;notify;9.5;10;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;L7680067;CORTINA PARA BAÑO  PACIFIC CLUB 14PZS;0;visible;1;notify;18;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;803-7017350;CUADRACICLO DE VAQUITA;0;visible;1;notify;95;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;D1-75928;CUADRO CHOCOLATE ;0;visible;1;notify;6;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-90116782;CUADRO DE CABALLO;0;visible;1;notify;34;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-90123537;CUADRO DE METAL SAXOFON;0;visible;1;notify;75;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-90123536;CUADRO DE METAL TROMPETA;0;visible;1;notify;75;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-83520;CUADRO GRANDE  VENTANAS;0;visible;1;notify;16;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-B3302A;CUADRO PARA PARED;0;visible;1;notify;25;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-32016;CUADRO PARA PARED;0;visible;1;notify;8;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-76511;CUADRO PARA PARED;0;visible;1;notify;28;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;754-32009;CUADRO PARA PARED;0;visible;1;notify;8;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CM-BLANCA-98;CUNA MECEDORA INFANTILE CON MOSQUITERO PARA BEBÉ;0;visible;1;notify;98;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;MG-6002;CUNA MECEDORA INFANTILE CON MOSQUITERO PARA BEBÉ;0;visible;1;notify;110;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;678-L1029020004;CUNAROSADO  PARA BEBÉ;0;visible;1;notify;92;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;5.94623E+11;DISPENSADOR DE AGUA ;0;visible;1;notify;175;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;134-004;DISPENSADOR DE BEBIDAS PSF 5550ML;0;visible;1;notify;28.5;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;TR-39-K-005929;DISPENSADOR PARA AGUA HEREVIN VEGA  3LTS;0;visible;1;notify;15;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;981-9072742;ESCALERA METALICA;0;visible;1;notify;50;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;853-7573CO;ESCRITORIO COLOR BEIGE ;0;visible;1;notify;235;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ST-S1263;ESCITORIO DE VIDRIO;0;visible;1;notify;220;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ST-S1203;ESCITORIO DE VIDRIO GRIS ;0;visible;1;notify;195;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;YS-1780;ESCRITORIO (GRIS);0;visible;1;notify;365;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;N17;ESCRITORIO 1400X700X760;0;visible;1;notify;380;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;YS-1206#;ESCRITORIO COLOR CHOCOLATE BASE J08 BLANCO;0;visible;1;notify;180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;BL1475-BLMP8;ESCRITORIO DE MADERA ROJO;0;visible;1;notify;295;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;BC-12;ESCRITORIO DE VIDRIO ;0;visible;1;notify;295;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;DC-B03;ESCRITORIO DE VIDRIO ;0;visible;1;notify;305;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ST-S1272A;ESCRITORIO DE VIDRIO ;0;visible;1;notify;205;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;BG-81;ESCRITORIO DE VIDRIO NEGRO 160CM CEREZA ;0;visible;1;notify;488;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;N43;ESCRITORIO EN  L (N43 1800X900X760);0;visible;1;notify;980;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;POLL-1;ESCRITORIO EN L PARA OFICINA;0;visible;1;notify;498;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;TA-1515;ESCRITORIO EN L PARA OFICINA;0;visible;1;notify;320;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;D-036B;ESCRITORIO PARA OFICINA;0;visible;1;notify;205;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;MB-1810;ESCRITORIO PARA OFICINA;0;visible;1;notify;980;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;MB-223;ESCRITORIO PARA OFICINA;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;MB-61825;ESCRITORIO PARA OFICINA;0;visible;1;notify;980;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;853-90122403;ESCRITORIO PARA OFICINA PARA CUATRO PERSONAS COLOR BEIGE;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ML0202;ESPEJO DE PARED ;0;visible;1;notify;45;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-90140634;ESPEJO GRANDE 100*100CM;0;visible;1;notify;318;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-79762;ESPEJO GRANDE 120*80CM;0;visible;1;notify;130;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-29819;ESPEJO GRANDE 60*90CM;0;visible;1;notify;94;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-76078;ESPEJO PARA PARED;0;visible;1;notify;15;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-90129547;ESPEJO PARA SALA ;0;visible;1;notify;195;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;729-90140642;ESPEJO PARA SALA ;0;visible;1;notify;300;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;ES-B-14;ESTANTE METALICO PARA BAÑO COLOR BLANCO;0;visible;1;notify;14;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;861-3404C;ESTANTE P/PINTURAS PARA UÑAS ;0;visible;1;notify;170;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;JE2200B;ESTRACTOR DE JUGO BLACK & DECKER;0;visible;1;notify;58;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;1642;ESTUFA DE MESA DE 3 QUEMADORES ERICKSON;0;visible;1;notify;34;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;963-9092453;ESTUFA DE MESA DE 4 QUEMADORES POLAR;0;visible;1;notify;40;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;SX-DA01A;ESTUFA ELECTRICA DE MESA DE 2 QUEMADORES TAURUS;0;visible;1;notify;25;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-27071;FLORERO;0;visible;1;notify;58;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-66310;FLORERO;0;visible;1;notify;28.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-79062;FLORERO;0;visible;1;notify;48;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-9099137;FLORERO ;0;visible;1;notify;32;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-90113203;FLORERO DECORE;0;visible;1;notify;27.5;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-90112723;FLORERO METALICO;0;visible;1;notify;60;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-82757;FLORERO VIDRIO;0;visible;1;notify;26;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;KD-0422A;GABINETE ARCHIVADOR DE VIDRIO LIBRERO;0;visible;1;notify;465;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-M34K504549;GABINETE MULTIUSO;0;visible;1;notify;235;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-DR883500;GABINETE PARA COCINA;0;visible;1;notify;180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-BA802RV;GABINETE PARA COCINA;0;visible;1;notify;210;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-DRN902;GABINETE PARA COCINA ;0;visible;1;notify;110;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-149HM00109;GABINETE PARA COCINA 2 PUERTAS Y CUATRO GABETAS;0;visible;1;notify;235;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-SKK807BW;GABINETE PARA COCINA 3 GAVETAS , 2 PUERTAS;0;visible;1;notify;180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-3500000714S;GABINETE PARA COCINA 3 PUERTAS;0;visible;1;notify;125;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-F1AV10603P0015;GABINETE PARA COCINA 3 PUERTAS;0;visible;1;notify;145;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-149HM00153;GABINETE PARA COCINA 4 GAVETAS Y DOS PUERTAS;0;visible;1;notify;218;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-3500000674;GABINETE PARA COCINA 5 PUERTAS Y 3 GABETAS;0;visible;1;notify;360;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-3500000687;GABINETE PARA COCINA 5 PUERTAS Y 3 GABETAS;0;visible;1;notify;360;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-3500000689;GABINETE PARA COCINA 5 PUERTAS Y 3 GABETAS COLOR CORAL;0;visible;1;notify;360;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-6000000252;GABINETE PARA COCINA 5 PUERTAS Y 4 GABETAS VIDRIO CORREDIZO;0;visible;1;notify;325;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;859-GB702CBN;GABINETE PARA COCINA 6 PUERTAS Y 3 GABETAS;0;visible;1;notify;365;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125225;GABINETE PARA OFICINA 3 DEPOSITOS COLOR GRIS ;0;visible;1;notify;235;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125254;GABINETE PARA OFICINA BEIGE;0;visible;1;notify;310;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-79008;GAVETERO DE CUATRO ESTANTES ;0;visible;1;notify;115;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-90125248;GAVETERO PARA OFICINA 3 GAVETAS ;0;visible;1;notify;142;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-HW3004CHOC;GAVINETE PARA COCINA;0;visible;1;notify;355;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-SKK802;GAVINETE PARA COCINA ;0;visible;1;notify;135;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plastico;Referencia;1;tamaño;1x1
+SIMPLE;856-SKK-807CW;GAVINETE PARA COCINA ;0;visible;1;notify;135;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;856-GB702CCHC;GAVINETE PARA COCINA 6 PUERTAS Y 3 GAVETAS ;0;visible;1;notify;365;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;107726;GUANTE PARA COCINA BEAUTIFUL HOME ;0;visible;1;notify;3;10;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;CEE308SS;HERVIDOR ELECTROCO ERICKSON, APAGADO AUTOMATICO;0;visible;1;notify;22;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;707-31604;HIELERA PEQUEÑA LIFE ART;0;visible;1;notify;3.5;5;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;AM007W;HORNO MICROONDAS ATLAS ;0;visible;1;notify;67;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;25PX27;HORNO MICROONDAS ERICKSON;0;visible;1;notify;110;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;RCTH11;HORNO TOSTADOR RCA;0;visible;1;notify;49;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;316;INODORO PARA BEBE;0;visible;1;notify;24;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;SW10754;JARRA TERMICA LIFE ART;0;visible;1;notify;7.5;10;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-90140453;JARRON GRANDE CON FLORERO;0;visible;1;notify;148;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;714-90140455;JARRON GRANDE CON FLORERO;0;visible;1;notify;180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;SW09396;JEEP ELECTRICO MRANGLER PARA NIÑO  AZUL;0;visible;1;notify;220;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;850-37556BLK1;JEGO MESA PARA EXTERIORES 4 SILLAS PLEGABLES ;0;visible;1;notify;160;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;719-83275;JOYERO ;0;visible;1;notify;14;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;711-90139194;JUEGO DE BAÑO CORTINA Y ALFOMBRAS ;0;visible;1;notify;19.5;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;851-L11710036;JUEGO DE MESA CON SILLAS PARA NIÑOS;0;visible;1;notify;52;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;851-L11710039;JUEGO DE MESA CON SILLAS PARA NIÑOS FALLADO UTIE BABY;0;visible;1;notify;52;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;L618289/1214;JUEGO DE OLLAS AETERNUM;0;visible;1;notify;244;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;L621387/3914;JUEGO DE OLLAS AETERNUM;0;visible;1;notify;280;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;PATINES_0028;JUEGO DE PATINES CON CASCO TALLA 36;0;visible;1;notify;28;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;857-SLS1877Q;JUEGO DE RECAMARA SET 5 PIEZAS ;0;visible;1;notify;1200;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;KIN-BS-1;JUEGO DE SABANAS EL MEJOR HOGAR;0;visible;1;notify;28;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;BD-1002;JUEGO DE SABANAS MI CASA D ORO KING;0;visible;1;notify;19;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;48-015;JUEGO DE SABANAS MIEL HOME;0;visible;1;notify;12;7;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+VARIABLE;SDX1800;JUEGO DE SABANAS SAMAR DELUXE KING;0;visible;1;notify;28;3;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;851-MA1111926;JUEGO DE SOFA ;0;visible;1;notify;1180;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;HG-2895;JUEGO DE TAZAS;0;visible;1;notify;7.5;24;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139795;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 121-213 CMS;0;visible;1;notify;8.5;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139248;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 152-304 CMS;0;visible;1;notify;13.5;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139256;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 152-304 CMS;0;visible;1;notify;10;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139258;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 152-304 CMS;0;visible;1;notify;10;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139268;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 152-304 CMS;0;visible;1;notify;15;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-90139802;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 152-304 CMS;0;visible;1;notify;13.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;722-MCR030;JUEGO DE VARILLA DECORATIVA PARA CORTINA ROD SET 210-300;0;visible;1;notify;18;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;854-7492;JUEGO MESA  DECORADA REDONDA DE PLASTICO, DOS SILLAS ;0;visible;1;notify;115;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;C18-3;JUEGO MESA  PARA EXTERIORES 4 SILLAS ;0;visible;1;notify;320;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;854-8733;JUEGO MESA  REDONDA DE PLASTICO, DOS SILLAS ;0;visible;1;notify;110;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;T94/Y-94;JUEGO PARA EXTERIORES (2 SILLAS );0;visible;1;notify;220;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;851-509502152;JUEGO SOFA;0;visible;1;notify;1350;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;928;JUEGO SOFA ;0;visible;1;notify;2800;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;851-5136061;JUEGO SOFA ;0;visible;1;notify;1080;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;854-MA210058CHCRO;JUEGO SOFA PARA TERRAZA;0;visible;1;notify;520;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;DLY-R019;JUEGO SOFA PARA TERRAZA;0;visible;1;notify;490;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;LUXURA-RSC-MBG;JUEGO SOFA PARA TERRAZA;0;visible;1;notify;328;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;3246-H62;KIT DE CAMARAS DE VIGILANCIA 4 CAMARAS;0;visible;1;notify;350;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;2-46AHD62;KIT DE CAMARAS DE VIGILANCIA 8 CAMARAS;0;visible;1;notify;380;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4065-01-BK;LAMPARA DE PEDESTAL PARA PATIO  1 BOMBILLO ;0;visible;1;notify;95;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4065-01-DG;LAMPARA DE PEDESTAL PARA PATIO  1 BOMBILLO ;0;visible;1;notify;115;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6935BK-03;LAMPARA DE PEDESTAL PARA PATIO  3 BOMBILLOS ;0;visible;1;notify;140;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4065-03DG;LAMPARA DE PIE PARA EXTERIORES 3 BOMBILLOS ;0;visible;1;notify;265;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6743F-WH;LAMPARA DE POSTE ;0;visible;1;notify;78;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;5442;LAMPARA DE TECHO ;0;visible;1;notify;25;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-78461;LAMPARA LABIOS  PARA MESA ;0;visible;1;notify;21;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;605-9114697;LAMPARA P/TECHO 4 BOMBILLOS ;0;visible;1;notify;78;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4278-5H;LAMPARA P/TECHO 5 BOMBILLOS ;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;607-DS9929;LAMPARA PARA ESCRITORIO;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;3407-BO;LAMPARA PARA JARDIN ;0;visible;1;notify;30.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7119T-DUO;LAMPARA PARA MESA;0;visible;1;notify;26;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-22500345;LAMPARA PARA MESA ;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-76277;LAMPARA PARA MESA ;0;visible;1;notify;15;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-78453;LAMPARA PARA MESA ;0;visible;1;notify;16;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-81808;LAMPARA PARA MESA ;0;visible;1;notify;18;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-81813;LAMPARA PARA MESA ;0;visible;1;notify;15;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-81906;LAMPARA PARA MESA ;0;visible;1;notify;28;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-81910;LAMPARA PARA MESA ;0;visible;1;notify;32;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6520-BK;LAMPARA PARA MESA ;0;visible;1;notify;19;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-76274;LAMPARA PARA MESA ;0;visible;1;notify;18;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-78996;LAMPARA PARA MESA  1 NEGRO, 1 BLANCO;0;visible;1;notify;19;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;8038;LAMPARA PARA MESA ANGRY BIRT;0;visible;1;notify;24;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-30516;LAMPARA PARA MESA CARRITO;0;visible;1;notify;17.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;604-81795;LAMPARA PARA MESA MOTITO;0;visible;1;notify;15.99;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;2301;LAMPARA PARA PARED;0;visible;1;notify;10;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4174SN-1W;LAMPARA PARA PARED;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4903W;LAMPARA PARA PARED;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;5437W;LAMPARA PARA PARED;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6237-1W;LAMPARA PARA PARED;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6906-1W;LAMPARA PARA PARED;0;visible;1;notify;15;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7210W;LAMPARA PARA PARED;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4173SN-1W;LAMPARA PARA PARED ;0;visible;1;notify;8;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4281BR-1W;LAMPARA PARA PARED ;0;visible;1;notify;24;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6243-3;LAMPARA PARA PARED 3 BOMBILLOS ;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;8091-1W;LAMPARA PARA PARED GENOVA;0;visible;1;notify;0;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;3997-1W;LAMPARA PARA PARED HOME DELIGHT;0;visible;1;notify;12;2;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;605-90114684;LAMPARA PARA TECHO;0;visible;1;notify;160;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;605-90114686;LAMPARA PARA TECHO;0;visible;1;notify;189;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;20112-AB;LAMPARA PARA TECHO;0;visible;1;notify;35;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;3392SN-15;LAMPARA PARA TECHO;0;visible;1;notify;29;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7149-2C;LAMPARA PARA TECHO;0;visible;1;notify;12;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7669-13;LAMPARA PARA TECHO;0;visible;1;notify;38;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;605-90108760;LAMPARA PARA TECHO ;0;visible;1;notify;60;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;8171-5+1;LAMPARA PARA TECHO  5 BOMBILLOS;0;visible;1;notify;98;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;3214RAB-5H;LAMPARA PARA TECHO  5 BOMBILLOS;0;visible;1;notify;60;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;5413/571;LAMPARA PARA TECHO  5 BOMBILLOS;0;visible;1;notify;98;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7573-9;LAMPARA PARA TECHO  9 BOMBILLOS ;0;visible;1;notify;350;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7574-9;LAMPARA PARA TECHO  9 BOMBILLOS ;0;visible;1;notify;370;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;6025;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;32;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7011;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;19;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7209;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;22;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;4472-1H;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;29;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7162WH;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;28;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
+SIMPLE;7199-H;LAMPARA PARA TECHO 1 BOMBILLO;0;visible;1;notify;32;1;MultiHogar;Estado del producto;Nuevo;Color;Negro;Material;Plástico;Referencia;1;tamaño;1x1
