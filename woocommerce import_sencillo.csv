@@ -1,14 +1,120 @@
-Type;SKU;Name;Published;Visibility in catalog;In stock?;Backorders allowed?;Price;Stock;Categories
-simple;GI-2929-42;"SOPORTE PARA TV 37"" 48""";0;visible;1;0;33;1;MultiHogar
-simple;TA-1515;ESCRITORIO EN L ;0;visible;1;0;0;1;MultiHogar
-simple;853-2155HEN;SILLA PARA OFICINA;0;visible;1;0;210;1;MultiHogar
-simple;9300L-BLKPU;SILLA PARA OFICINA ;0;visible;1;0;0;1;MultiHogar
-simple;851-A01;SILLLA PARA ESPERA ;0;visible;1;0;0;10;MultiHogar
-simple;704-90135296;CANDELABRO;0;visible;1;0;23;1;MultiHogar
-simple;001#;SILLA PARA OFICINA ;0;visible;1;0;108;1;MultiHogar
-simple;CR-131-L2520;SILLA PARA OFICINA COLOR GRIS ;0;visible;1;0;98;1;MultiHogar
-simple;718-90141108;PLANTA ARTIFICIAL;0;visible;1;0;85;1;MultiHogar
-simple;852-PW6038CTC;MESA PARA CAFÉ ;0;visible;1;0;145;1;MultiHogar
-simple;852-CW002N;MESA PARA CENTRO ;0;visible;1;0;135;1;MultiHogar
-simple;852-MA112221;MESA PARA CENTRO ;0;visible;1;0;125;1;MultiHogar
-simple;704-32209T;CANDELABRO;0;visible;1;0;298;1;MultiHogar
+Type;SKU;Name;Published;Visibility in catalog;In stock?;Backorders allowed?;Stock;Price;Categories
+simple;6953869882888;Silla Para Niños ;0;visible;1;0;1;5.00;MultiHogar
+simple;851-5546N;Silla P/Bar;0;visible;1;0;1;65.00;MultiHogar
+simple;722-90139248;Riel Para Cortina ;0;visible;1;0;1;13.50;MultiHogar
+simple;718-83728;Planta Artificial;0;visible;1;0;1;85.00;MultiHogar
+simple;718-33321;Planta Artificial;0;visible;1;0;1;13.5;MultiHogar
+simple;852-8354;Mesa Plegable ;0;visible;1;0;1;40.00;MultiHogar
+simple;605-90114684;Lámpara P/Techo;0;visible;1;0;1;160.00;MultiHogar
+simple;719-83275-G;Joyero Grande ;0;visible;1;0;1;20.00;MultiHogar
+simple;ST-S1401;Escritorio Para Pc ;0;visible;1;0;1;195.00;MultiHogar
+simple;704-90141433;Candelabro Dorado;0;visible;1;0;1;39.00;MultiHogar
+simple;856-90133153;Archivador Negro ;0;visible;1;0;1;238.00;MultiHogar
+simple;801-58867V;Moto Verde P/Niño 102x53x6;0;visible;1;0;1;148.00;MultiHogar
+simple;801-M030RD;Moto P/Niño Color Rojo 99x49x66 Cm;0;visible;1;0;1;139.00;MultiHogar
+simple;852-CT334G;Mesa P/Centro ;0;visible;1;0;1;135.00;MultiHogar
+simple;064-6014511;Maletín Polo Verde Con Negro ;0;visible;1;0;1;98.00;MultiHogar
+simple;851-SF192CHO;Juego De Sofá De Tres Piezas;0;visible;1;0;1;1450.00;MultiHogar
+simple;851-SF242CHC;Juego De Sofá 2 Piezas ;0;visible;1;0;1;1200.00;MultiHogar
+simple;CTMF52-5C3L;Abanico Para Techo;0;visible;1;0;1;139.98;MultiHogar
+simple;851-408010;Sofá En L Color Chocolate;0;visible;1;0;1;1298.00;MultiHogar
+simple;851-408022;Sofá En L 1 Pieza ;0;visible;1;0;1;1298.00;MultiHogar
+simple;852-MA150340CA;Mesa De Vidrio P/Centro 1100x600x450;0;visible;1;0;2;135.00;MultiHogar
+simple;754-31354;Cuadros Medianos ;0;visible;1;0;3;15.00;MultiHogar
+simple;604-81910;Lámpara P/Mesa;0;visible;1;0;4;32.00;MultiHogar
+simple;604-78996 ;Lámpara P/Mesa;0;visible;1;0;6;19.00;MultiHogar
+simple;7453080115394R;Silla Plegable Color Rojo;0;visible;1;0;1;32.00;MultiHogar
+simple;861-HL313050;Silla P/Barbería;0;visible;1;0;1;498.00;MultiHogar
+simple;855-TV106;Mueble P/Tv;0;visible;1;0;1;230.00;MultiHogar
+simple;ABE56TECHO;"Abanico Para Techo 56""";0;visible;1;0;1;48.00;MultiHogar
+simple;8410-5;Lámpara P/Techo 5 Bombillos ;0;visible;1;0;1;98.00;MultiHogar
+simple;7204;Lámpara Industrial P/Techo;0;visible;1;0;1;35.00;MultiHogar
+simple;AL-P;Almohada Pequeña ;0;visible;1;0;1;8.50;MultiHogar
+simple;AL-M;Almohada Mediana;0;visible;1;0;1;9.50;MultiHogar
+simple;AL-G;Almohada Grande;0;visible;1;0;1;11.50;MultiHogar
+simple;5413/5;Lámpara Para Techo;0;visible;1;0;2;98.00;MultiHogar
+simple;704-90141432;Candelabro (Copa);0;visible;1;0;1;31.00;MultiHogar
+simple;AD-0256;Silla P/Espera;0;visible;1;0;2;35.00;MultiHogar
+simple;856-3500000701S;Gabinete Blanco Para Cocina ;0;visible;1;0;3;145.00;MultiHogar
+simple;6496;Lámpara P/Mesa P/Niños ;0;visible;1;0;1;15.00;MultiHogar
+simple;3405W-V;Lámpara P/Pared ;0;visible;1;0;2;15.00;MultiHogar
+simple;6732;Lámpara P/Pared;0;visible;1;0;3;14.00;MultiHogar
+simple;4513;Ojo De Buey ;0;visible;1;0;5;4.00;MultiHogar
+simple;6904BR-5H;Lámpara P/Techo 5 Bombillos ;0;visible;1;0;1;95.00;MultiHogar
+simple;754-90116784;Cuadro Elefante;0;visible;1;0;1;34.00;MultiHogar
+simple;704-81056;Candelabro 25x13x30;0;visible;1;0;1;35.00;MultiHogar
+simple;1847010002C;Andadera De Elefante ;0;visible;1;0;1;0.00;MultiHogar
+simple;851-JMJ0326A2;Silla Plegable Beige ;0;visible;1;0;2;35.00;MultiHogar
+simple;704-33364;Candelabro Pequeño;0;visible;1;0;6;10.00;MultiHogar
+simple;719-78530-G;Joyero Grande ;0;visible;1;0;1;20.00;MultiHogar
+simple;754-90100046;Cuadro Orquídeas;0;visible;1;0;1;34.00;MultiHogar
+simple;CR-131;Silla P/Oficina;0;visible;1;0;1;98.00;MultiHogar
+simple;IU-11LT;Olla De Presión Universal Royal 11 Lts;0;visible;1;0;1;38.00;MultiHogar
+simple;856-149HM00153;Gabinete Para Cocina;0;visible;1;0;1;0.00;MultiHogar
+simple;852-9097486;Mesa Redonda;0;visible;1;0;1;0.00;MultiHogar
+simple;CR-131-L2520;Silla Para Oficina;0;visible;1;0;1;98.00;MultiHogar
+simple;719-78530-G;Joyero Grande;0;visible;1;0;1;20.00;MultiHogar
+simple;856-90125227;Archivador Gris 4 Gavetas;0;visible;1;0;2;298.00;MultiHogar
+simple;304B;Silla Para Oficina;0;visible;1;0;5;0.00;MultiHogar
+simple;4765-3H;Lámpara Para Techo De 3 Bombillos;0;visible;1;0;1;18.00;MultiHogar
+simple;ABE56TECHO;Abanico Para Techo Ericsson;0;visible;1;0;2;48.00;MultiHogar
+simple;ML-0089;Cuadro;0;visible;1;0;1;28.00;MultiHogar
+simple;719-78530-P;Joyero Pequeño;0;visible;1;0;1;18.00;MultiHogar
+simple;FN-40T02WR;Abanico De Torre Sankey;0;visible;1;0;1;65.00;MultiHogar
+simple;ZY-1780;Escritorio Gris;0;visible;1;0;1;365.00;MultiHogar
+simple;856-DR883150;Gabinete Para Cocina;0;visible;1;0;1;115.00;MultiHogar
+simple;718-33321;Planta Artificial;0;visible;1;0;2;0.00;MultiHogar
+simple;754-90100046;Cuadro De Orquídea;0;visible;1;0;1;34.00;MultiHogar
+simple;718-33322;Planta Artificial 34cm;0;visible;1;0;2;13.50;MultiHogar
+simple;718-33324;Planta Artificial;0;visible;1;0;1;8.50;MultiHogar
+simple;B03;Silla De Espera De 3 Puestos;0;visible;1;0;1;0.00;MultiHogar
+simple;851-9096266;Silla De Espera De 3 Puestos;0;visible;1;0;1;309.00;MultiHogar
+simple;856-90125254;Archivador De 2 Gavetas;0;visible;1;0;1;310.00;MultiHogar
+simple;KD-042;Archivador De 2 Gavetas Con Vidrio;0;visible;1;0;1;465.00;MultiHogar
+simple;861-HL313051;Silla Para Barbería;0;visible;1;0;1;498.00;MultiHogar
+simple;SCH-02;Mesa Para Centro;0;visible;1;0;1;135.00;MultiHogar
+simple;7500H-PK;Lámpara Para Techo Rosada;0;visible;1;0;1;36.00;MultiHogar
+simple;853-90122121;Mesa Para Pc Rojo Vino;0;visible;1;0;1;46.00;MultiHogar
+simple;ST-S1229CPU;Mesa Para Pc;0;visible;1;0;1;178.00;MultiHogar
+simple;W-150B;Silla Para Oficina;0;visible;1;0;1;158.00;MultiHogar
+simple;BLD49-1260;Escritorio;0;visible;1;0;1;0.00;MultiHogar
+simple;754-31344;Cuadro Pequeño;0;visible;1;0;10;4.00;MultiHogar
+simple;721-90140623;Porta Retrato;0;visible;1;0;1;12.00;MultiHogar
+simple;754-32009;Cuadro Para Cocina Vinos;0;visible;1;0;2;8.00;MultiHogar
+simple;718-33313;Planta Artificial;0;visible;1;0;1;8.00;MultiHogar
+simple;853-SL036;Silla Para Oficina;0;visible;1;0;1;145.00;MultiHogar
+simple;GPLUS;Dispensador De Agua;0;visible;1;0;1;178.00;MultiHogar
+simple;855-TV106;Mueble Para Tv;0;visible;1;0;1;230;MultiHogar
+simple;001# ;Silla Para Oficina ;0;visible;1;0;1;148;MultiHogar
+simple;853-2155HEN;Silla Para Oficina;0;visible;1;0;1;210;MultiHogar
+simple;9300L-BLKPU;Silla Para Oficina;0;visible;1;0;1;95;MultiHogar
+simple;MD2-1AC;Mesa De Aluminio;0;visible;1;0;1;77.5;MultiHogar
+simple;B02;Silla Metálica De 2 Puestos;0;visible;1;0;1;195;MultiHogar
+simple;861-450;Silla Para Manicure;0;visible;1;0;1;0;MultiHogar
+simple;FC001-N;Silla Para Oficina 4x51x77cm;0;visible;1;0;1;68;MultiHogar
+simple;853-2312H-N;Silla Para Oficina;0;visible;1;0;1;155;MultiHogar
+simple;853-SL1428RO;Silla Para Oficina;0;visible;1;0;1;175;MultiHogar
+simple;853-901CBA;Silla Para Oficina;0;visible;1;0;1;185;MultiHogar
+simple;853-90133083;Silla Para Oficina;0;visible;1;0;1;178;MultiHogar
+simple;853-FC001ARM;Silla Para Oficina;0;visible;1;0;1;68;MultiHogar
+simple;853-90122641;Silla Para Oficina;0;visible;1;0;1;175;MultiHogar
+simple;861-90144405;Organizador Para Salón;0;visible;1;0;1;88;MultiHogar
+simple;843-SL1022;Silla Para Oficina;0;visible;1;0;1;69;MultiHogar
+simple;604-76274;Lámpara Para Mesa;0;visible;1;0;1;18;MultiHogar
+simple;853-90133066;Silla Para Oficina ;0;visible;1;0;1;165.00;MultiHogar
+simple;803-7029968;Deslizador Para Niño;0;visible;1;0;1;298.00;MultiHogar
+simple;861-90144400;Taburete Para Salón;0;visible;1;0;2;58.00;MultiHogar
+simple;604-81810;Lámpara Para Mesa;0;visible;1;0;2;15.00;MultiHogar
+simple;604-83733;Lámpara Para Mesa;0;visible;1;0;2;16.00;MultiHogar
+simple;853-90126606;Escritorio Para Oficina;0;visible;1;0;1;130.00;MultiHogar
+simple;604-80980;Lámpara Para Mesa;0;visible;1;0;3;15.00;MultiHogar
+simple;604-90135102;Lámpara Para Mesa;0;visible;1;0;1;25.00;MultiHogar
+simple;604-80986;Lámpara Para Mesa;0;visible;1;0;3;15.00;MultiHogar
+simple;853-9097483;Escritorio Para Oficina;0;visible;1;0;1;130.00;MultiHogar
+simple;D5-9929;Lámpara Para Escritorio;0;visible;1;0;2;12.00;MultiHogar
+simple;801-84520;Patines Ajustables 27-30;0;visible;1;0;1;38.00;MultiHogar
+simple;801-84526;Patines 35, 36, 37;0;visible;1;0;1;48.00;MultiHogar
+simple;801-84523;Patines Ajustables 31-42;0;visible;1;0;1;39.00;MultiHogar
+simple;801-84519;Patines Ajustables 27-30;0;visible;1;0;1;38.00;MultiHogar
+simple;053-0419823;Paraguas Para Niña 48cm;0;visible;1;0;4;6.00;MultiHogar
+simple;874-83520;Cuadro Para Sala;0;visible;1;0;1;0.00;MultiHogar
